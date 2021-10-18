@@ -103,6 +103,8 @@ export default {
 
 <style scoped>
 #app {
+  width:550px;
+  margin: 0 auto;
   padding: 10px;
 }
 
